@@ -1,5 +1,4 @@
 # Colorizing-Manga
-Using deep learning to convert manga panels to anime frames
 
 <img src="report preview.png" alt="report image" width="1080" />
 
